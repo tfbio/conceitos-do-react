@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/tfbio/conceitos-do-react/blob/master/github/todo.jpg"/>
+   <img src="https://github.com/tfbio/conceitos-do-react/github/todo.jpg"/>
 </p>
 <h1 align="center">React Concepts with ToDo List<h1>
   
